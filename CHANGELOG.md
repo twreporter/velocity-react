@@ -1,3 +1,13 @@
+### v1.3.4 (2017-11-30):
+
+Fix lodash/pluck with lodash/map
+
+### v1.3.3 (2017-11-30):
+
+Bump lodash version to ^4
+
+## ======== @twreporter/velocity-react
+
 ### v1.3.3 (2017-05-19):
 
 Fixes incorrect timer clearing. (Thanks, @dmeiz1)

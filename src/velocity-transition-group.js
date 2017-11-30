@@ -48,7 +48,7 @@ var _ = {
   isEqual: require('lodash/isEqual'),
   keys: require('lodash/keys'),
   omit: require('lodash/omit'),
-  pluck: require('lodash/pluck'),
+  pluck: require('lodash/map'),
 };
 var React = require('react');
 var ReactDOM = require('react-dom');
