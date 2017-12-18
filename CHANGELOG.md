@@ -1,3 +1,8 @@
+### v1.4.1 (2017-12-18)
+
+Upgrade peer dependencies. Accept react@^16.0.0 and react-dom@^16.0.0
+Upgrade react-transition-group@^1.2.1 which accepts react@^16.0.0 and react-dom@^16.0.0
+
 ### v1.3.4 (2017-11-30):
 
 Fix lodash/pluck with lodash/map
