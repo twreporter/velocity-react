@@ -1,6 +1,6 @@
 {
   "name": "@twreporter/velocity-react",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "React components to wrap Velocity animations",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "*.js": "eslint --quiet"
   },
   "dependencies": {
-    "lodash": "^4",
+    "lodash": "^4.0.0",
     "prop-types": "^15.5.8",
     "react-transition-group": "^1.2.1",
     "velocity-animate": "^1.4.0"
@@ -64,5 +64,10 @@
     "underscore.string": "^3.2.0",
     "webpack": "^1.12.0",
     "webpack-dev-server": "^1.10.1"
-  }
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "velocity-*.js"
+  ]
 }

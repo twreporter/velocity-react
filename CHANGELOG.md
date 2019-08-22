@@ -1,3 +1,8 @@
+### v1.4.2 (2019-08-22)
+
+Update package.json#dependencies: lodash@^4 -> lodash@^4.0.0
+Update package.json#files: only pack useful files
+
 ### v1.4.1 (2017-12-18)
 
 Upgrade peer dependencies. Accept react@^16.0.0 and react-dom@^16.0.0
