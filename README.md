@@ -1,3 +1,5 @@
+**This forked package is not be maintained. Please use the official [google-fabric/velocity-react](https://github.com/google-fabric/velocity-react).**
+
 # velocity-react
 
 [React](http://facebook.github.io/react/) components for interacting with the
